@@ -1431,6 +1431,55 @@ body {
 .cid-rsqy2obx2y H3 {
   text-align: center;
 }
+.cid-rsr4aEm8xV {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #226340;
+  background: linear-gradient(0deg, #226340, #226340);
+}
+.cid-rsr4aEm8xV .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-rsr4aEm8xV .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #ffffff;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
+}
+.cid-rsr4aEm8xV .nav-tabs .nav-link:hover {
+  background-color: #cbd9cb;
+}
+.cid-rsr4aEm8xV .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #000000;
+  font-style: normal;
+  border: none;
+  background: #cbd9cb;
+}
+.cid-rsr4aEm8xV .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-rsr4aEm8xV p {
+  color: #232323;
+}
+.cid-rsr4aEm8xV .mbr-text {
+  text-align: center;
+}
+.cid-rsr4aEm8xV H2 {
+  color: #ffffff;
+}
+.cid-rsr4aEm8xV P {
+  color: #ffffff;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #2e2e2e;
